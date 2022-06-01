@@ -36,7 +36,7 @@ before_install:
 install:
   # install all of the dependencies we need here
   - pip install nose==1.*
-  - pip install pyxb==1.2.5
+  - pip install pyxb==1.2.6
     # can't change the pyxb version without changing the version in setup.py
     # and regenerating the bindings in apicontractsv1.py
   - pip install lxml==4.*

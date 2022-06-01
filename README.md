@@ -104,10 +104,10 @@ When using the SDK to submit Chase Pay transactions, consider the following poin
 
 ### Requirements
 - python 2.7
-- pyxb 1.2.5
+- pyxb 1.2.6
 
 Run the following to get pyxb and nosetests:
-- pip install pyxb==1.2.5
+- pip install pyxb==1.2.6
 - pip install nose
 - pip install lxml
 

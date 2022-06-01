@@ -1,7 +1,7 @@
 # .\binding.py
 # -*- coding: utf-8 -*-
 # PyXB bindings for NM:0fc19dc0c6315668ca059fd5839cdad268ce84d3
-# Generated 2020-12-16 14:25:16.030175 by PyXB version 1.2.5 using Python 3.7.9.final.0
+# Generated 2020-12-16 14:25:16.030175 by PyXB version 1.2.6 using Python 3.7.9.final.0
 # Namespace AnetApi/xml/v1/schema/AnetApiSchema.xsd
 
 from __future__ import unicode_literals
@@ -17,7 +17,7 @@ import pyxb.utils.six as _six
 _GenerationUID = pyxb.utils.utility.UniqueIdentifier('urn:uuid:6a124e8c-3f7c-11eb-bcdb-847beb3cc146')
 
 # Version of PyXB used to generate the bindings
-_PyXBVersion = '1.2.5'
+_PyXBVersion = '1.2.6'
 # Generated bindings are not compatible across PyXB versions
 if pyxb.__version__ != _PyXBVersion:
     raise pyxb.PyXBVersionError(_PyXBVersion)

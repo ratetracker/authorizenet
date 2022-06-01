@@ -7,7 +7,7 @@ Python - demo version commit
 Installations
 --------------------------------------
 - python 2.7
-- pyxb 1.2.5
+- pyxb 1.2.6
  *install python before pyxb 
 
  
